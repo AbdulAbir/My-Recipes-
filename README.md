@@ -1,2 +1,2 @@
-# Maiai-kofta
+# Maiali-kofta
 Healthy-and-tasty-dish
